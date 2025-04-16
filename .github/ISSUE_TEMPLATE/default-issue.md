@@ -4,24 +4,11 @@ about: Create an issue using the default template
 title: ''
 labels: ''
 assignees: ''
-
----
-
----
-title: "[Implement/Draw/Write/Fix/Optimise] {Feature}"
----
-
-labels: [Coding/Art Team], [Sprint Number], Add whatever else such as epic
-
-assignees: ''
-
 milestone: ''
+---
 
-dependencies: ''
+title: "[Implement/Draw/Write/Fix/Optimise] {Feature}"
 
-(remember to tag labels, assignees, dependencies and milestones, do not write them in)
-
-------
 ## Feature Overview
 Short precise description
 
